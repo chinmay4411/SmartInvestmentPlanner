@@ -1,0 +1,41 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.class
+*.pkl
+
+# Virtual env
+.venv/
+venv/
+ENV/
+
+# Environment
+.env
+
+# Byte-compiled / caches
+*.pyc
+*.pyo
+*.pyd
+
+# IDEs
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Node / frontend
+node_modules/
+build/
+dist/
+
+# Logs
+logs/
+*.log
+
+# Database
+*.sqlite3
+*.db
+
+# OS files
+Thumbs.db

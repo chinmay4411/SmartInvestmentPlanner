@@ -15,3 +15,10 @@ yfinance==0.2.18
 plotly==5.17.0
 
 gunicorn==21.2.0
+flask
+flask-cors
+gunicorn
+psycopg2-binary
+tinydb
+python-dotenv
+requests

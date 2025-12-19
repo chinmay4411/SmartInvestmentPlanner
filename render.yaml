@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: smartinvestmentplanner-backend
+    env: python
+    region: oregon
+    plan: free
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    runtime: python-3.10.13

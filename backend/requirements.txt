@@ -12,5 +12,6 @@ scikit-learn==1.2.2
 joblib==1.2.0
 
 yfinance==0.2.18
+yahoo-fin
 plotly==5.17.0
 reportlab

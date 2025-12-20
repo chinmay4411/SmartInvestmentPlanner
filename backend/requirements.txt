@@ -13,3 +13,4 @@ joblib==1.2.0
 
 yfinance==0.2.18
 plotly==5.17.0
+reportlab
